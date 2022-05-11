@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### 玄昌盛
+- 硕士：南京工业大学(2020.9-)
+- 本科：齐鲁工业大学(2015.9-2019.6)
+- 中共预备党员
+- 
 <!--
 **gdzl-xcs/gdzl-xcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 访问量的统计 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
-<!-- 技能标签 -->
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
