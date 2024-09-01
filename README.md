@@ -2,7 +2,7 @@
 
 # 玄昌盛个人介绍
 
-- 硕士：南京工业大学 | 专业：电子信息(2020.9-至今)
+- 硕士：南京工业大学 | 专业：电子信息(2020.9-2023.6)
 - 本科：齐鲁工业大学 | 专业：信息与计算科学(2015.9-2019.6)
 - 政治面貌：中共党员
 
@@ -10,7 +10,7 @@
 
 ### 研究生
 
-- 2023年，投递论文《Domain-generalized EEG Classification with Category-oriented Feature Decorrelation and Cross-view Consistency Learning》期刊TNSRE，SCI一区，第二作者（导师一作）
+- 2023年，发表论文《Domain-generalized EEG Classification with Category-oriented Feature Decorrelation and Cross-view Consistency Learning》期刊TNSRE，SCI一区，第二作者（导师一作）
 - 2022年，申请专利“一种基于双重监督的领域泛化脑电信号分类方法”
 - 2022年，荣获“优秀研究生志愿者”、“优秀学生干部”称号
 - 2022年，荣获“南京工业大学特等学业奖学金”
