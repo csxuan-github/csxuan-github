@@ -10,6 +10,7 @@
 
 ### 研究生
 
+- 2024 年通过“阿里巴巴编码规范”考试
 - 2023年，发表论文《Domain-generalized EEG Classification with Category-oriented Feature Decorrelation and Cross-view Consistency Learning》期刊TNSRE，SCI一区，第二作者（导师一作）
 - 2022年，申请专利“一种基于双重监督的领域泛化脑电信号分类方法”
 - 2022年，荣获“优秀研究生志愿者”、“优秀学生干部”称号
